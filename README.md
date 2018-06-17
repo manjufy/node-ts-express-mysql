@@ -8,6 +8,11 @@
 - Implement DB layer
 - Setup unit tests
 - Setup integration tests
+- Docker & docker compose
+- Metrics
+- Monitoring
+- Logging
+- Schema + Validation
 
 ### References
 
